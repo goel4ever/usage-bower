@@ -1,0 +1,14 @@
+{
+  "name": "usage-bower",
+  "version": "0.0.1",
+  "author": "Anshul Goel",
+  "description": "Playgroud project for Bower and to serve as code store for later purposes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goel4ever/usage-bower.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
