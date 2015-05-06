@@ -1,0 +1,27 @@
+{
+  "name": "usage-bower",
+  "version": "0.0.1",
+  "homepage": "https://github.com/goel4ever/usage-bower",
+  "authors": [
+    "Anshul Goel"
+  ],
+  "description": "Playgroud project for Bower and to serve as code store for later purposes",
+  "main": "main.js",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "bower",
+    "node",
+    "usage"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
