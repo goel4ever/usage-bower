@@ -14,14 +14,19 @@
   "keywords": [
     "bower",
     "node",
-    "usage"
+    "usage",
+    "web-components"
   ],
   "license": "MIT",
   "ignore": [
     "**/.*",
+    "*.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "resolutions": {
+    "jquery": "2.1.1"
+  }
 }
