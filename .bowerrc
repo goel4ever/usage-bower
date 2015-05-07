@@ -4,13 +4,13 @@
   "timeout": 120000,
   "registry": {
     "search": [
-      "http://localhost:8000",
-      "https://bower.herokuapp.com"
+      "https://bower.herokuapp.com",
+      "http://localhost:8000"
     ],
     "register": "https://bower.herokuapp.com",
     "publish": "https://bower.herokuapp.com"
   },
-  "proxy":"http://iwsva.corp.pcln.com:8080",
-  "https-proxy":"http://iwsva.corp.pcln.com:8080",
+  "proxy":"",
+  "https-proxy":"",
   "strict-ssl": false
 }
