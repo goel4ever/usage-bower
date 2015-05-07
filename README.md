@@ -6,7 +6,7 @@ Added necessary bower configurations to the project in .bowerrc file
 You have node, npm and bower installed
 
 ## References:
-http://bower.io/
+http://bower.io/ <br>
 http://bower.io/docs/api/
 
 ## PS:
