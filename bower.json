@@ -31,5 +31,10 @@
   ],
   "resolutions": {
     "jquery": "2.1.1"
+  },
+  "preen": {
+    "jquery": [
+      "dist/*.js"
+    ]
   }
 }
