@@ -1,6 +1,6 @@
 {
   "name": "usage-bower",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Anshul Goel",
   "description": "Playgroud project for Bower and to serve as code store for later purposes",
   "repository": {
@@ -11,8 +11,6 @@
     "start": "node app.js",
     "test-log": "node app.js"
   },
-  "dependencies": {
-  },
-  "devDependencies": {
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
