@@ -30,11 +30,14 @@
     "tests"
   ],
   "resolutions": {
-    "jquery": "2.1.1"
+    "jquery": "2.1.4"
   },
   "preen": {
     "jquery": [
       "dist/*.js"
     ]
+  },
+  "dependencies": {
+    "jquery": "~2.1.4"
   }
 }
